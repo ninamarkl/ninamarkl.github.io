@@ -6,7 +6,7 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic-1400.jpg
   image_circular: true # crops the image to make it circular
   address:
 
@@ -16,7 +16,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+I am researcher working at the intersection of sociolinguistics, speech technologies and AI ethics. I am particularly interested language variation and change and the impact of speech technologies on speech communities. More broadly, I am interested in understanding the risks and harms of AI technologies, in particular as they affect already marginalised communities.
 
+I have recently submitted my PhD dissertation on algorithmic bias in automatic speech recognition systems. The project was supervised by Dr Catherine Lai and Prof Lauren Hall-Lew at the UKRI CDT for NLP at the University of Edinburgh.
+
+I am currently a Research Associate the UKRI Node for Trustworthy Autonomous Systems at the University of Edinburgh, focussing on governance of AI technologies.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.test
