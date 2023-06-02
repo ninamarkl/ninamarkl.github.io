@@ -70,6 +70,7 @@
   shorttitle       = {The {{Lothian Diary Project}}},
   url              = {https://www.degruyter.com/document/doi/10.1515/lingvan-2021-0053/html},
   urldate          = {2022-04-14},
+  selected = {true},
 }
 
 @InProceedings{Markl2022LanguageVariationAlgorithmic,
@@ -82,4 +83,4 @@
   pages            = {521–534},
   publisher        = {Association for Computing Machinery},
   series           = {FAccT '22},
-  abstract         = {All language is characterised by variation which language users employ to construct complex social identities and express social meaning. Like other machine learning technologies, speech and language technologies (re)produce structural oppression when they perform worse for marginalised language communities. Using knowledge and theories from sociolinguistics, I explore why commercial automatic speech recognition systems and other language technologies perform significantly worse for already marginalised populations, such as second-language speakers and speakers of stigmatised varieties of English in the British Isles. Situating language technologies within the broa
+  abstract         = {All language is characterised by variation which language users employ to construct complex social identities and express social meaning. Like other machine learning technologies, speech and language technologies (re)produce structural oppression when they perform worse for marginalised language communities. Using knowledge and theories from sociolinguistics, I explore why commercial automatic speech recognition systems and other language technologies perform significantly worse for already marginalised populations, such as second-language speakers and speakers of stigmatised varieties of English in the British Isles. Situating language techno
