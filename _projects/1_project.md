@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sociophonetic Variation in Edinburgh
-description: 
+description: Studying vowels and consonants in Leith and Morningside
 img: assets/img/bayo-adegunloye-jYPLJMfC6fw-unsplash.jpg
 importance: 1
 category: past
