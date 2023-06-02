@@ -7,28 +7,19 @@
     #  value: 14th March 1879
     - name: Email
       value: nina [dot] markl [at] ed [dot] ac [dot] uk
-    - name: Languages
-      value: English, German (and a wee bit of Spanish and French)
+    #- name: Languages
+    #  value: English, German (and a wee bit of Spanish and French)
 
-# - title: Education
-#   type: time_table
-#   contents:
-#     - title: Ph.D. in Electrical Engineering and Computer Science
-#       institution: Massachusetts Institute of Technology
-#       year: 2018 - 2023
-#     - title: S.M. in Electrical Engineering and Computer Science
-#       institution: Massachusetts Institute of Technology
-#       year: 2018 - 2020
-#       #description:
-#       #  - Description 1.
-#       #  - Description 2.
-#     - title: B.E. in Engineering Physics
-#       institution: Tsinghua University
-#       year: 2014 - 2018
-#       #description:
-#       #  - Description 1.
-#       #  - Description 2.
-#
+- title: Education
+  type: time_table
+  contents:
+     - title: Ph.D. (awaiting viva)
+       institution: University of Edinburgh
+       year: 2019 - 2023
+     - title: MA (Hons) Linguistics
+       institution: University of Edinburgh
+       year: 2015 - 2019
+
 # - title: Experience
 #   type: time_table
 #   contents:
