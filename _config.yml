@@ -275,7 +275,7 @@ scholar:
   locale: en
 
 
-  sort_by: year,month
+  sort_by: year
   order: descending
   group_by: year
 
