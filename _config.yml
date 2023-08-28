@@ -275,8 +275,8 @@ scholar:
   locale: en
 
 
-  sort_by: year
-  order: descending
+  sort_by: none
+  #order: descending
   #group_by: year
 
   source: /_bibliography/
