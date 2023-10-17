@@ -57,6 +57,7 @@
   author           = {Hall-Lew, Lauren and Cowie, Claire and Lai, Catherine and Markl, Nina and McNulty, Stephen Joseph and Liu, Shan-Jan Sarah and Llewellyn, Clare and Alex, Beatrice and Elliott, Zuzana and Klingler, Anita},
   journal          = {Linguistics Vanguard},
   title            = {The {{Lothian Diary Project}}: Sociolinguistic Methods during the {{COVID-19}} Lockdown},
+  year             = {2022},
   issn             = {2199-174X},
   month            = mar,
   number           = {s3},
@@ -99,6 +100,7 @@
   author           = {Markl, Nina and McNulty, Stephen Joseph},
   booktitle        = {Proceedings of the Language Resources and Evaluation Conference},
   title            = {Language technology practitioners as language managers: arbitrating data bias and predictive bias in ASR},
+  year             = {2022},
   address          = {Marseille, France},
   month            = jun,
   pages            = {6328--6339},
@@ -154,4 +156,4 @@
   booktitle = {ICASSP 2023},
   title     = {{T}he {E}dinburgh {I}nternational {A}ccents of {E}nglish {C}orpus: {T}owards the {D}emocratization of {E}nglish {ASR}},
   year      = {2023},
-  abstract  = {English is the most widely spoken language in the world, used daily by millions of people as a first or second language in many different contexts. As a result, there are many varieties of English. Although the great many advances in English automatic speech recognition (ASR) over the past decades, results are usually reported based on test datasets which fail to represent the diversity of English as spoken today around the globe. We present the first release of The Edinburgh International Accents of English Corpus (EdAcc). This dataset attempts to better represent the wide diversity of English, encompassing almost 40 hours of dyadic video call conversations between friends. Unlike other datasets, EdAcc includes a wide range of first and second-language varieties of English and a linguistic background profile of each speaker. Results on latest public, and commercial models show that EdAcc highlights shortcomings of current English ASR models. The best performing model, trained on 680 thousand hours of transcribed data, obtains an average of 19.7% word error rate (WER) – in contrast to the 2.7% WER obtained when evaluated on US English clean read speech. Across all models, we observe a drop in performance on Indi
+  abstract  = {English is the most widely spoken language in the world, used daily by millions of people as a first or second language in many different contexts. As a result, there are many varieties of English. Although the great many advances in English automatic speech recognition (ASR) over the past decades, results are usually reported based on test datasets which fail to represent the diversity of English as spoken today around the globe. We present the first release of The Edinburgh International Accents of English Corpus (EdAcc). This dataset attempts to better represent the wide diversity of English, encompassing almost 40 hours of dyadic video call conversations between friends. Unlike other datasets, EdAcc includes a wide range of first and second-language varieties of English and a linguistic background profile of each speaker. Results on latest public, and commercial models show that EdAcc highlights shortcomings of current English ASR models. The best performing model, trained on 680 thousand hours of transcribed data, obtains an average of 19.7% word error rate (WER) – in contrast to the 2.7% WER obtained when evaluated on US English clean read speech.
