@@ -16,9 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am researcher working at the intersection of sociolinguistics, speech technologies and AI ethics. I am particularly interested language variation and change and the impact of speech technologies on speech communities. More broadly, I am interested in understanding the risks and harms of AI technologies, in particular as they affect already marginalised communities.
+I am a researcher working at the intersection of sociolinguistics, speech technologies and AI ethics. I am particularly interested language variation and change and the impact of speech technologies on speech communities. More broadly, I am interested in understanding the risks and harms of AI technologies, in particular as they affect already marginalised communities.
 
-I am a Research Fellow at the [Institute for Analytics and Data Science](https://www.essex.ac.uk/centres-and-institutes/institute-for-analytics-and-data-science) and the Department for Language and Linguistics at the University of Essex. 
+I am a Research Fellow at the [Institute for Analytics and Data Science](https://www.essex.ac.uk/centres-and-institutes/institute-for-analytics-and-data-science) and the Department for Language and Linguistics at the University of Essex.
 
 I have recently submitted my PhD dissertation on algorithmic bias in automatic speech recognition systems. The project was supervised by [Dr Catherine Lai](https://homepages.inf.ed.ac.uk/clai/) and [Prof Lauren Hall-Lew](https://www.laurenhall-lew.com/) at the [UKRI CDT for NLP](https://web.inf.ed.ac.uk/cdt/natural-language-processing) at the University of Edinburgh. Some of the papers included in the thesis have been published.
 
