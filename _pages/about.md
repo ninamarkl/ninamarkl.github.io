@@ -16,14 +16,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a researcher working at the intersection of sociolinguistics, speech technologies and AI ethics. I am particularly interested language variation and change and the impact of speech technologies on speech communities. More broadly, I am interested in understanding the risks and harms of AI technologies, in particular as they affect already marginalised communities.
+<p>I am a researcher working at the intersection of sociolinguistics, speech technologies and AI ethics. I am particularly interested in language variation and change and the impact of speech technologies on speech communities. More broadly, I am interested in understanding the socio-technical contexts and impacts of computing technologies, in particular machine learning and "artificial intelligence".</p>
 
-I am a Research Fellow at the [Institute for Analytics and Data Science](https://www.essex.ac.uk/centres-and-institutes/institute-for-analytics-and-data-science) and the Department for Language and Linguistics at the University of Essex.
+<p>I am a (socio)linguist and (somewhat skeptical) computer scientist by training, but have a strong interest in science and technology studies, sociology and political studies. In my work I try to bring different fields, and different researchers, into conversation. Within and outwith academia, I'm committed to collaboration to foster sustainable, anti-racist and supportive learning, working and living environments. </p>
 
-I have recently submitted my PhD dissertation on algorithmic bias in automatic speech recognition systems. The project was supervised by [Dr Catherine Lai](https://homepages.inf.ed.ac.uk/clai/) and [Prof Lauren Hall-Lew](https://www.laurenhall-lew.com/) at the [UKRI CDT for NLP](https://web.inf.ed.ac.uk/cdt/natural-language-processing) at the University of Edinburgh. Some of the papers included in the thesis have been published.
+<p>I work as a Research Fellow at the <a href="https://www.essex.ac.uk/centres-and-institutes/institute-for-analytics-and-data-science" rel="external nofollow noopener" target="_blank">Institute for Analytics and Data Science</a> and the <a href="https://www.essex.ac.uk/departments/language-and-linguistics" rel="external nofollow noopener" target="_blank">Department of Language and Linguistics</a> at the <a href="https://www.essex.ac.uk/" rel="external nofollow noopener" target="_blank">University of Essex</a> in Colchester, in south-east England.</p>
 
-I was previously a Research Associate the [UKRI Node Trustworthy Autonomous Systems Governance and Regulation](https://web.inf.ed.ac.uk/tas) at the University of Edinburgh, focussing on governance of AI technologies, especially in healthcare.
-
+<p>Before moving to England, I was a student and (part-time) tutor and research assistant at the University of Edinburgh in Scotland. My PhD research was supervised by <a href="https://homepages.inf.ed.ac.uk/clai/" rel="external nofollow noopener" target="_blank">Dr Catherine Lai</a> and <a href="https://www.laurenhall-lew.com/" rel="external nofollow noopener" target="_blank">Prof Lauren Hall-Lew</a> at the <a href="https://web.inf.ed.ac.uk/cdt/natural-language-processing" rel="external nofollow noopener" target="_blank">UKRI CDT for NLP</a> at the University of Edinburgh.</p>
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.test
 
