@@ -6,14 +6,14 @@
     #- name: Date of Birth
     #  value: 14th March 1879
     - name: Email
-      value: nina [dot] markl [at] ed [dot] ac [dot] uk
+      value: nina [dot] markl [at] essex [dot] ac [dot] uk
     #- name: Languages
     #  value: English, German (and a wee bit of Spanish and French)
 
 - title: Education
   type: time_table
   contents:
-     - title: Ph.D. (awaiting viva)
+     - title: Ph.D.
        institution: University of Edinburgh
        year: 2019 - 2023
      - title: MA (Hons) Linguistics
