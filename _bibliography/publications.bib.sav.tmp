@@ -139,21 +139,20 @@
   url              = {https://repository.upenn.edu/pwpl/vol28/iss2/11},
 }
 
-@InProceedings{ReitmaierEtAl2023SituatingAutomaticSpeech,
-  author    = {Thomas Reitmaier and Electra Wallington and Ond{\v{r}}ej Klejch and Nina Markl and L{\'{e}}a-Marie Lam-Yee-Mui and Jennifer Pearson and Matt Jones and Peter Bell and Simon Robinson},
-  booktitle = {Proceedings of the 2023 {CHI} Conference on Human Factors in Computing Systems},
-  title     = {Situating Automatic Speech Recognition Development within Communities of Under-heard Language Speakers},
-  year      = {2023},
-  month     = {apr},
-  publisher = {{ACM}},
-  abstract  = {In this paper we develop approaches to automatic speech recognition (ASR) development that suit the needs and functions of under-heard language speakers. Our novel contribution to HCI is to show how community-engagement can surface key technical and social issues and opportunities for more effective speech-based systems. We introduce a bespoke toolkit of technologies and showcase how we utilised the toolkit to engage communities of under-heard language speakers; and, through that engagement process, situate key aspects of ASR development in community contexts. The toolkit consists of (1) an information appliance to facilitate spoken-data collection on topics of community interest, (2) a mobile app to create crowdsourced transcripts of collected data, and (3) demonstrator systems to showcase ASR capabilities and to feed back research results to community members. Drawing on the sensibilities we cultivated through this research, we present a series of challenges to the orthodoxy of state-of-the-art approaches to ASR development.},
-  doi       = {10.1145/3544548.3581385},
-  selected  = {true},
-}
-
 @InProceedings{SanabriaEtAl2023EdinburghInternationalAccents,
   author    = {Sanabria, Ramon and Bogoychev, Nikolay and Markl, Nina and Carmantini, Andrea and Klejch, Ondrej and Bell, Peter},
   booktitle = {ICASSP 2023},
   title     = {{T}he {E}dinburgh {I}nternational {A}ccents of {E}nglish {C}orpus: {T}owards the {D}emocratization of {E}nglish {ASR}},
   year      = {2023},
-  abstract  = {English is the most widely spoken language in the world, used daily by millions of people as a first or second language in many different contexts. As a result, there are many varieties of English. Although the great many advances in English automatic speech recognition (ASR) over the past decades, results are usually reported based on test datasets which fail to represent the diversity of English as spoken today around the globe. We present the first release of The Edinburgh International Accents of English Corpus (EdAcc). This dataset attempts to better represent the wide diversity of English, encompassing almost 40 hours of dyadic video call conversations between friends. Unlike other datasets, EdAcc includes a wide range of first and second-language varieties of English and a linguistic background profile of each speaker. Results on latest public, and commercial models show that EdAcc highlights shortcomings of current English ASR models. The best performing model, trained on 680 thousand hours of transcribed data, obtains an average of 19.7% word error rate (WER) – in contrast to the 2.7% WER obtained when evaluated on US English clean read speech.
+  abstract  = {English is the most widely spoken language in the world, used daily by millions of people as a first or second language in many different contexts. As a result, there are many varieties of English. Although the great many advances in English automatic speech recognition (ASR) over the past decades, results are usually reported based on test datasets which fail to represent the diversity of English as spoken today around the globe. We present the first release of The Edinburgh International Accents of English Corpus (EdAcc). This dataset attempts to better represent the wide diversity of English, encompassing almost 40 hours of dyadic video call conversations between friends. Unlike other datasets, EdAcc includes a wide range of first and second-language varieties of English and a linguistic background profile of each speaker. Results on latest public, and commercial models show that EdAcc highlights shortcomings of current English ASR models. The best performing model, trained on 680 thousand hours of transcribed data, obtains an average of 19.7% word error rate (WER) – in contrast to the 2.7% WER obtained when evaluated on US English clean read speech. Across all models, we observe a drop in performance on Indian, Jamaican, and Nigerian English speakers. Recordings, linguistic backgrounds, data statement, and evaluation scripts are released on our website under CC-BY-SA 1 license. 2 We hope that this work will encourage future research on a wider range of English varieties to create more accessible speech technologies.},
+  doi       = {10.1109/ICASSP49357.2023.10095057},
+  url       = {https://ieeexplore.ieee.org/abstract/document/10095057},
+}
+
+@Article{Markl2023Icantsee,
+  author           = {Nina Markl},
+  journal          = {Language Variation and Change},
+  title            = {"I can't see myself ever living any[w]ere else": Variation in (HW) in Edinburgh English},
+  year             = {2023},
+  pages            = {1--27},
+  abstract         = {Sociolinguistic research across Scotland in recent decades has documented an erosion of the phonemic contrast between /ʍ/ (as in which) and /w/ (as in witch). Based on acoustic phonetic analysis of 1,400 <wh> realizations produced by eighteen Edinburgh women born between 1938 and 1993, I argue that in the context of Edinburgh this is best understood as a complex sociolinguistic variable (HW) encompassing (at least) six fricated and fricationless variants. Realizations vary in type and relative duration of frication, voicing, and glide quality. Bayesian statistical analysis suggests that choice and realization of variants is conditioned by speaker's social class, style, and phonetic context. Unlike some prior work, I do not find evidence of ongoing (apparent-time) change or an effect of contact with Southern British English. Fricated varian
