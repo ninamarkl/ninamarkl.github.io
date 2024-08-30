@@ -177,11 +177,10 @@
   title     = {Automatic transcription and (de)standardisation},
   year      = {2023},
   month     = jun,
-  note      = {SIGUL 2023, 2nd Annual Meeting of the Special Interest Group on Under-resourced Languages : a Satellite Workshop of Interspeech 2023, SIGUL 2023 ; Conference date: 18-08-2023 Through 20-08-2023},
   abstract  = {In this paper we illustrate the gap between real language use and the language use assumed in ASR development through the example of isiXhosa in Langa, South Africa. Understanding speech and writing practices in context is particularly important when developing speech technologies for minoritised and under-resourced languages, and their communities.},
   day       = {16},
   language  = {English},
-  url       = {https://sigul-2023.ilc.cnr.it/},
+  url       = {https://www.isca-archive.org/sigul_2023/markl23_sigul.pdf},
 }
 
 @InProceedings{MarklEtAl2024LanguageTechnologiesas,
@@ -213,6 +212,7 @@
   keywords  = {Speech/language, co-creation, field study, zero-resource information retrieval},
   location  = {<conf-loc>, <city>Honolulu</city>, <state>HI</state>, <country>USA</country>, </conf-loc>},
   numpages  = {17},
+  selected  = {true},
   url       = {https://doi.org/10.1145/3613904.3642026},
 }
 
