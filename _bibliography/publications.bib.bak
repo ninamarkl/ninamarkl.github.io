@@ -280,6 +280,8 @@
   volume    = {105},
   doi       = {10.1016/j.langcom.2025.10.004},
   publisher = {Elsevier BV},
+  selected  = {true},
+  url       = {https://www.sciencedirect.com/science/article/pii/S0271530925000989},
 }
 
  
