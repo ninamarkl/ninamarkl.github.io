@@ -350,6 +350,7 @@
   isbn      = {9798400725968},
   keywords  = {artificial intelligence, discourse, capitalism, ideology, labour, language},
   numpages  = {20},
+  selected  = {true},
   url       = {https://doi.org/10.1145/3805689.3806481},
 }
 
