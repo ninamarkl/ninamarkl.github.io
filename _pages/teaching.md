@@ -6,6 +6,13 @@ description: #Materials for courses you taught. Replace this text with your desc
 nav: true
 nav_order: 5
 ---
+## University of Essex
+
+- LG218: Sociolinguistics (Module Lead and Instructor)
+- LG222: English Language in the Media (Module Lead and Instructor)
+- LG353: Varieties of English in the British Isles (Module Lead and Instructor)
+- CS202: The Politics, Ethics and Philosophy of AI (Instructor)
+- LG595: Professional Development for PGR students (Instructor)
 
 ## University of Edinburgh
 
